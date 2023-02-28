@@ -1,0 +1,58 @@
+h1{
+    margin: auto;
+    text-align: center;
+    margin-top: 248px;
+}
+
+.container{
+    margin: auto;
+    margin-top: 48px;
+    width: 400px;
+}
+
+input{
+    width: 100%;
+    height: 20px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+input:focus{
+    outline-color: dodgerblue;
+}
+
+button{
+    margin-top: 10px;
+    width: 200px;
+    background-color: dodgerblue;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    height: 30px;
+    border-radius: 20px;
+    border-color: transparent;
+    transition: ease-out .2s;
+}
+
+button:hover{
+    background-color: rgb(1, 85, 168);
+    cursor: pointer;
+    transition: ease-out .2s;
+    font-size: 15px;
+}
+
+h2{
+    text-align: center;
+}
+
+.botao{
+    text-align: right;
+}
+
+p{
+    margin: 3px;
+    font-weight: bold;
+    
+}
