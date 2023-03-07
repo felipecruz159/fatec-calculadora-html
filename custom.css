@@ -34,6 +34,8 @@ button{
     border-radius: 20px;
     border-color: transparent;
     transition: ease-out .2s;
+    float: left;
+    margin-bottom: 10px;
 }
 
 button:hover{
@@ -55,4 +57,9 @@ p{
     margin: 3px;
     font-weight: bold;
     
+}
+
+#limpar{
+    background-color: red;
+    float: right;
 }
